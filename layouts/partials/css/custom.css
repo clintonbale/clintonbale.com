@@ -1,0 +1,7 @@
+section.main .content .markdown figure.small img {
+    width: initial;
+}
+section.main .content .markdown figure figcaption > p {
+    font-size: 70%;
+    text-align: center;
+}
