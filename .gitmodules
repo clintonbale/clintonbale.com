@@ -1,0 +1,3 @@
+[submodule "themes/cbhugo"]
+	path = themes/cbhugo
+	url = https://github.com/clintonbale/cbhugo.git
