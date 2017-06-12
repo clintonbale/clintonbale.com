@@ -4,7 +4,6 @@ description = "Desc"
 meta_img = "images/cataclone/cata_menu.png"
 tags = ["projects", "catacomb", "game", "c"]
 title = "cataclone"
-draft = true
 +++
 
 [cataclone](https://github.com/clintonbale/cataclone "cataclone") is a project I started in 2012 that was intended to help me learn and understand some of the more advanced concepts of the C programming language, reverse engineering and [SDL](https://www.libsdl.org/ "SDL"). The goal of the project was to replicate the original [Catacomb](http://en.wikipedia.org/wiki/Catacomb_%28video_game%29 "Catacomb") game using original Catacomb assets and create a cross platform version built in pure C using SDL+OpenGL. 

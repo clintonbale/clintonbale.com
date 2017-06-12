@@ -1,11 +1,8 @@
 +++
 author = "Clinton Bale"
 date = "2013-03-02"
-shares = true
-metas = true
 title = "conc_groove4"
 tags = ["map","tfc"]
-maptypes = ["conc","skill"]
 meta_img = "images/conc_groove4/conc_groove2.jpg"
 +++
 
@@ -17,10 +14,4 @@ The map is also equipped with an experts and masters team for experienced concer
 
 [Download Source Files](/assets/conc_groove4/conc_groove4_source.zip)
 
-[![](/images/conc_groove4/conc_groove2.jpg)](/images/conc_groove4/conc_groove2.jpg)
-[![](/images/conc_groove4/conc_groove1.jpg)](/images/conc_groove4/conc_groove1.jpg)
-[![](/images/conc_groove4/conc_groove3.jpg)](/images/conc_groove4/conc_groove3.jpg)
-[![](/images/conc_groove4/conc_groove4.jpg)](/images/conc_groove4/conc_groove4.jpg)
-[![](/images/conc_groove4/conc_groove5.jpg)](/images/conc_groove4/conc_groove5.jpg)
-[![](/images/conc_groove4/conc_groove6.jpg)](/images/conc_groove4/conc_groove6.jpg)
-[![](/images/conc_groove4/conc_groove7.jpg)](/images/conc_groove4/conc_groove7.jpg)
+{{< gallery dir="/images/conc_groove4" />}}

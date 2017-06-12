@@ -1,11 +1,8 @@
 +++
 author = "Clinton Bale"
 date = "2011-05-06"
-shares = true
-metas = true
 title = "ramp_training"
 tags = ["map","tfc"]
-maptypes = ["ramping","skill"]
 meta_img = "images/ramp_training/ramp_training1.jpg"
 +++
 
@@ -22,9 +19,4 @@ The map features four types of ramp styles:
 
 [Download Source Files](/assets/ramp_training/ramp_training_source.zip)
 
-[![](/images/ramp_training/ramp_training1.jpg)](/images/ramp_training/ramp_training1.jpg)
-[![](/images/ramp_training/ramp_training2.jpg)](/images/ramp_training/ramp_training2.jpg)
-[![](/images/ramp_training/ramp_training3.jpg)](/images/ramp_training/ramp_training3.jpg)
-[![](/images/ramp_training/ramp_training4.jpg)](/images/ramp_training/ramp_training4.jpg)
-[![](/images/ramp_training/ramp_training5.jpg)](/images/ramp_training/ramp_training5.jpg)
-[![](/images/ramp_training/ramp_training6.jpg)](/images/ramp_training/ramp_training6.jpg)
+{{< gallery dir="/images/ramp_training" />}}

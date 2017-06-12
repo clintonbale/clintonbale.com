@@ -1,11 +1,8 @@
 +++
 author = "Clinton Bale"
 date = "2011-06-23"
-shares = true
-metas = true
 title = "concmap_od"
 tags = ["map","tfc"]
-maptypes = ["conc","skill"]
 meta_img = "images/concmap_od/concmap_od1.jpg"
 +++
 
@@ -23,10 +20,4 @@ Overall the map took me 8 hours to complete within the constraints above.
 
 [Download Map](/assets/concmap_od/concmap_od.zip)
 
-[![](/images/concmap_od/concmap_od1.jpg)](/images/concmap_od/concmap_od1.jpg)
-[![](/images/concmap_od/concmap_od2.jpg)](/images/concmap_od/concmap_od2.jpg)
-[![](/images/concmap_od/concmap_od3.jpg)](/images/concmap_od/concmap_od3.jpg)
-[![](/images/concmap_od/concmap_od4.jpg)](/images/concmap_od/concmap_od4.jpg)
-[![](/images/concmap_od/concmap_od5.jpg)](/images/concmap_od/concmap_od5.jpg)
-[![](/images/concmap_od/concmap_od6.jpg)](/images/concmap_od/concmap_od6.jpg)
-[![](/images/concmap_od/concmap_od7.jpg)](/images/concmap_od/concmap_od7.jpg)
+{{< gallery dir="/images/concmap_od" />}}

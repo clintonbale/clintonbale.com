@@ -5,4 +5,4 @@ title = "Projects"
 
 You can see my public **projects** on _GitHub_ : https://github.com/clintonbale. 
 
-I also explain in detail some of the other projects I have worked on down below:
+I also explain in detail some of the other projects I have worked on down below.

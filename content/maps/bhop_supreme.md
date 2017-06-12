@@ -1,11 +1,8 @@
 +++
 author = "Clinton Bale"
 date = "2012-06-09"
-shares = true
-metas = true
 title = "bhop_supreme"
 tags = ["map","tfc"]
-maptypes = ["bhop","skill"]
 meta_img = "images/bhop_supreme/bhop_supreme2.jpg"
 +++
 
@@ -17,8 +14,4 @@ The map also features a long-jump section designed for TFC. This section has lon
 
 [Download source files](/assets/bhop_supreme/bhop_supreme_source.zip)
 
-[![](/images/bhop_supreme/bhop_supreme1.jpg)](/images/bhop_supreme/bhop_supreme1.jpg)
-[![](/images/bhop_supreme/bhop_supreme2.jpg)](/images/bhop_supreme/bhop_supreme2.jpg)
-[![](/images/bhop_supreme/bhop_supreme3.jpg)](/images/bhop_supreme/bhop_supreme3.jpg)
-[![](/images/bhop_supreme/bhop_supreme4.jpg)](/images/bhop_supreme/bhop_supreme4.jpg)
-[![](/images/bhop_supreme/bhop_supreme5.jpg)](/images/bhop_supreme/bhop_supreme5.jpg)
+{{< gallery dir="/images/bhop_supreme" />}}

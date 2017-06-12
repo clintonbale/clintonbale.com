@@ -1,5 +1,7 @@
 +++
 title= "License"
+description = "License for clintonbale.com"
+comments = false
 +++
 
 > The MIT License (MIT)

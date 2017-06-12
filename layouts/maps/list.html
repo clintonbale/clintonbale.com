@@ -1,0 +1,56 @@
+{{ define "header" }}
+  <header class="header-section ">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading list">
+              <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}
+{{ define "main" }}
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+            {{.}}
+        {{ end }}
+        <div class="posts-list">
+            {{ range .Data.Pages }}
+              <article class="post-preview">
+                <a href="{{ .Permalink }}">
+                  {{ if .Params.meta_img }}
+                    <img src="/{{ .Params.meta_img }}" title="{{ .Title }}" alt="{{ .Title }}"/>
+                  {{ end}}
+                  <h2 class="post-title">{{ .Title }}</h2>      
+                </a>
+                <p class="post-meta">
+                  {{ default (i18n "dateFormat") .Site.Params.dateformat | .Date.Format | i18n "releasedOnDate" }}
+                </p>
+              </article>
+          {{ end }}
+        </div>
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <li class="previous">
+                <a href="{{ .URL }}page/{{ .Paginator.Prev.PageNumber }}">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="next">
+                <a href="{{ .URL }}page/{{ .Paginator.Next.PageNumber }}">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}
+

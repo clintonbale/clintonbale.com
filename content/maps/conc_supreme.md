@@ -1,11 +1,8 @@
 +++
 author = "Clinton Bale"
 date = "2011-05-06"
-shares = true
-metas = true
 title = "conc_supreme"
 tags = ["map","tfc"]
-maptypes = ["conc","skill"]
 meta_img = "images/conc_supreme/conc_supreme1.jpg"
 +++
 
@@ -13,8 +10,4 @@ meta_img = "images/conc_supreme/conc_supreme1.jpg"
 
 [Download Map](/assets/conc_supreme/conc_supreme.zip)
 
-[![](/images/conc_supreme/conc_supreme1.jpg)](/images/conc_supreme/conc_supreme1.jpg)
-[![](/images/conc_supreme/conc_supreme2.jpg)](/images/conc_supreme/conc_supreme2.jpg)
-[![](/images/conc_supreme/conc_supreme3.jpg)](/images/conc_supreme/conc_supreme3.jpg)
-[![](/images/conc_supreme/conc_supreme4.jpg)](/images/conc_supreme/conc_supreme4.jpg)
-[![](/images/conc_supreme/conc_supreme5.jpg)](/images/conc_supreme/conc_supreme5.jpg)
+{{< gallery dir="/images/conc_supreme" />}}
