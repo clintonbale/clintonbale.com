@@ -10,7 +10,7 @@ googleAnalytics = "UA-52078346-1"
 [Params]
   subtitle = "Software Developer"
   logo = "images/me.png"
-  favicon = "images/favicon.ico"
+  #favicon = "favicon.ico"
   dateFormat = "January 2, 2006"
   rss = false
   comments = true
