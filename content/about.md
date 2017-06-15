@@ -13,6 +13,6 @@ Feel free to contact me any time at [clinton@clintonbale.com](mailto:clinton@cli
 
 What I've been up to recently:
 
-- creating this website to play with [Hugo](https://gohugo.io) and static website generation
+- creating [this website](/projects/clintonbale.com/) to play with [Hugo](https://gohugo.io) and static website generation
 - working full time as the lead developer for [The Portal Connector](https://www.crmportalconnector.com/)
 - brushing up on C++ and creating a [game using SDL](#link-soon)
