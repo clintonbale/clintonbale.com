@@ -3,7 +3,7 @@ title = "About me"
 comments = false
 +++
 
-Hello, I’m a software developer from Ontario, Canada. I love and work primarily with C# and JavaScript. I also am well versed in and other web-based technologies.
+Hello, I’m a software developer from Ontario, Canada. I love and work primarily with C# and JavaScript. I am also well versed in other web-based technologies.
 
 Check out my [LinkedIn](https://linkedin.com/in/clintonbale) profile or [GitHub](https://github.com/clintonbale) to learn more about what I have done or can do.
 
