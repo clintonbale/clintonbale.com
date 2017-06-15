@@ -3,6 +3,11 @@ title = "clintonbale.com"
 description = "My personal development website, blog and portfolio"
 date = "2017-05-22"
 tags = ["projects","website"]
+comments = false
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**clintonbale.com** is a result of two things: being sick of WordPress and the bloat that comes with it, and the curiosity that static website generation has given me ever since I have first heard of it.
+
+The website is created using the latest version of [Hugo](https://gohugo.io) and is hosted on [GitHub](https://github.com/clintonbale/clintonbale.com). I have also based this template based on the Hugo theme [Beautiful Hugo](https://github.com/halogenica/beautifulhugo)
+
+The site is built to simply have some virtual presence. I will be updating the blog and other sections as I develop content.
