@@ -1,4 +1,4 @@
-baseurl = "https://clintonbale.com"
+baseurl = "http://clintonbale.netlify.com"
 DefaultContentLanguage = "en"
 title = "Clinton Bale"
 theme = "cbhugo"
