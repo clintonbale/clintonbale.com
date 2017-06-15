@@ -5,6 +5,7 @@ title = "toon_climb"
 tags = ["map","tfc"]
 meta_img = "images/toon_climb/toon_climb2.jpg"
 +++
+{{< load-photoswipe >}}
 
 **toon_climb** is a climbing map for Team Fortress Classic. This map has a *cartoon* style theme with a moderate difficulty.
 

@@ -5,6 +5,7 @@ title = "conc_groove4"
 tags = ["map","tfc"]
 meta_img = "images/conc_groove4/conc_groove2.jpg"
 +++
+{{< load-photoswipe >}}
 
 **conc_groove4** is a collaboration map between *Spaz* and myself. This map is a continuation of the original conc\_groove series by *Sand le Youkoulaylay*. The map features 10 moderate-hard jumps using the same style as the original series.
 

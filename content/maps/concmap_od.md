@@ -5,6 +5,7 @@ title = "concmap_od"
 tags = ["map","tfc"]
 meta_img = "images/concmap_od/concmap_od1.jpg"
 +++
+{{< load-photoswipe >}}
 
 **concmap_od** is a map that is an output of a self-challenge I gave to myself: "Can I develop a map in **o**ne **d**ay?" The map is named after the challenge (**od** for one day).
 

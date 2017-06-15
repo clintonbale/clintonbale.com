@@ -5,10 +5,11 @@ meta_img = "images/cataclone/cata_menu.png"
 tags = ["projects", "catacomb", "game", "c"]
 title = "cataclone"
 +++
+{{< load-photoswipe >}}
 
 [cataclone](https://github.com/clintonbale/cataclone "cataclone") is a project I started in 2012 that was intended to help me learn and understand some of the more advanced concepts of the C programming language, reverse engineering and [SDL](https://www.libsdl.org/ "SDL"). The goal of the project was to replicate the original [Catacomb](http://en.wikipedia.org/wiki/Catacomb_%28video_game%29 "Catacomb") game using original Catacomb assets and create a cross platform version built in pure C using SDL+OpenGL. 
 
-{{< figure src="/images/cataclone/cata_menu.png" class="small" caption="The original Catacomb menu screen rendered in the cataclone engine." >}}
+{{< figure src="/images/cataclone/cata_menu.png" caption="The original Catacomb menu screen rendered in the cataclone engine." >}}
 
 Development of the 2D engine and the code to load all of the Catacomb assets was a great challenge. The engine was built in pure OpenGL. SDL was only used to create and maintain a cross-platform window and provide sound API. I decided to write the engine in OpenGL because I thought It would be a good learning experience to see how things operate on a more deeper level.
 
@@ -26,7 +27,7 @@ The graphics of the engine are the same as the original. The community over at [
 
 Catacomb levels are initially compressed using the [Keen RLE](http://www.shikadi.net/moddingwiki/Keen_1-3_RLE_compression) compression format. However once uncompressed the file format is just a simple sequential list of tiles in a 64x64 array. Each tile representing 1 byte of data, and each byte value means something different in the game. Levels are loaded from file and stored in memory when the game requests the level. 
 
-{{< figure src="/images/cataclone/cata_lvl8.png" class="small" caption="A screenshot of level 8 rendered in the cataclone engine." >}}
+{{< figure src="/images/cataclone/cata_lvl8.png" caption="A screenshot of level 8 rendered in the cataclone engine." >}}
 
 ### Sounds
 

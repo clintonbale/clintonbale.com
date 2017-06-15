@@ -5,6 +5,7 @@ title = "bhop_supreme"
 tags = ["map","tfc"]
 meta_img = "images/bhop_supreme/bhop_supreme2.jpg"
 +++
+{{< load-photoswipe >}}
 
 **bhop_supreme** is a hard bunny hopping map designed for the physics of the Team Fortress Classic civilian class. Textures and map aesthetic inspired by the kz\_synergy series.
 

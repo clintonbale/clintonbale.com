@@ -5,6 +5,7 @@ title = "ramp_training"
 tags = ["map","tfc"]
 meta_img = "images/ramp_training/ramp_training1.jpg"
 +++
+{{< load-photoswipe >}}
 
 **ramp_training** is a map designed to help assist new players in getting familiar with the *ramping* mechanic in Team Fortress Classic.
 
