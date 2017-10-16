@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/clintonbale
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://clintonbale.com
+  * I am clintonbale (https://keybase.io/clintonbale) on keybase.
+  * I have a public key ASD5duC6HTlDCXQXnQLT2h4u-lP3OLeULi8YUhqieGEhRAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f976e0ba1d39430974179d02d3da1e2efa53f738b7942e2f18521aa2786121440a",
+      "host": "keybase.io",
+      "kid": "0120f976e0ba1d39430974179d02d3da1e2efa53f738b7942e2f18521aa2786121440a",
+      "uid": "29ff90b6e4bff046c0102f49191ca019",
+      "username": "clintonbale"
+    },
+    "merkle_root": {
+      "ctime": 1508131446,
+      "hash": "94ed0e8d910c530bf3383a386ed17d303d6a890d5c5b4f4989213ef77d7e203a7810a63271aef4b93e3d38660985f38816fe6a87a4fe98efce836dc7562ddfbb",
+      "hash_meta": "f26323febb07ee56a18fbfb303471ee26ee2c62b7a8b0282ba2d82156fd08e52",
+      "seqno": 1583356
+    },
+    "service": {
+      "hostname": "clintonbale.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508131587,
+  "expire_in": 504576000,
+  "prev": "effad33fee8119bff6416ee9a7e9ee8ba76b447e7d236976a6cd4d2039d1159d",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+Xbguh05Qwl0F50C09oeLvpT9zi3lC4vGFIaonhhIUQKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjk3NmUwYmExZDM5NDMwOTc0MTc5ZDAyZDNkYTFlMmVmYTUzZjczOGI3OTQyZTJmMTg1MjFhYTI3ODYxMjE0NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjk3NmUwYmExZDM5NDMwOTc0MTc5ZDAyZDNkYTFlMmVmYTUzZjczOGI3OTQyZTJmMTg1MjFhYTI3ODYxMjE0NDBhIiwidWlkIjoiMjlmZjkwYjZlNGJmZjA0NmMwMTAyZjQ5MTkxY2EwMTkiLCJ1c2VybmFtZSI6ImNsaW50b25iYWxlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4MTMxNDQ2LCJoYXNoIjoiOTRlZDBlOGQ5MTBjNTMwYmYzMzgzYTM4NmVkMTdkMzAzZDZhODkwZDVjNWI0ZjQ5ODkyMTNlZjc3ZDdlMjAzYTc4MTBhNjMyNzFhZWY0YjkzZTNkMzg2NjA5ODVmMzg4MTZmZTZhODdhNGZlOThlZmNlODM2ZGM3NTYyZGRmYmIiLCJoYXNoX21ldGEiOiJmMjYzMjNmZWJiMDdlZTU2YTE4ZmJmYjMwMzQ3MWVlMjZlZTJjNjJiN2E4YjAyODJiYTJkODIxNTZmZDA4ZTUyIiwic2Vxbm8iOjE1ODMzNTZ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY2xpbnRvbmJhbGUuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDgxMzE1ODcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZWZmYWQzM2ZlZTgxMTliZmY2NDE2ZWU5YTdlOWVlOGJhNzZiNDQ3ZTdkMjM2OTc2YTZjZDRkMjAzOWQxMTU5ZCIsInNlcW5vIjoxMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBoH172oq8epZjSzPJsCKVdkY72PW84juAFrmShX2e7rH3cHyOfHRYMHX37QVYzBrnQ9LzxDd7RuihffzcSGecAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg1p2C34njSYIfKJGLIT1scLbxPj1ahGXEBM8BCuM2+HKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/clintonbale
+
+==================================================================
